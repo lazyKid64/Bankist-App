@@ -1,4 +1,4 @@
-# Bankist App – Numbers, Dates, Timers & Internationalization
+# Bankist App 
 
 A modern banking application built using **HTML**, **CSS**, and **Vanilla JavaScript** as part of Jonas Schmedtmann’s Complete JavaScript Course.
 
